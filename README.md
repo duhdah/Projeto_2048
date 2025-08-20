@@ -23,7 +23,6 @@ Cada combinação feita acrescenta uma pontuação proporcional ao valor da peç
 
 ## Dependências:
 * Python 3: Interpretador utilizado para executar a aplicação.
-* PIP: Gerenciador de pacotes de Python utilizado para instalar as bibliotecas necessárias.
 * Tkinter: Biblioteca Python utilizada para elaborar a interface gráfica.
 
 Se for necessário instalar o Tkinter separadamente, utilize o seguinte comando:
